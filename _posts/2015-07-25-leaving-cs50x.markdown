@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Why I quit Harvard CS50x"
+date:   2015-07-25 07:58:29
+categories: e-learning
+---
+
+
+In my [last post](/blog/updates/2015/07/10/so-it-begins.html), I mentioned I started [Harvards CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edx. Today, I decided to quit it and I un-enrolled from the class on edx. I made the decision after thinking on it long and hard so I'm not regretting what I did. Here's why I quit:
+
+# Why?
+To sum it up in a line, *I didn't have time for it.* I'm a web developer meaning what I do is related to the web - websites and web-apps. The course teaches C, a language not built for the web. My main focus was learning full-stack JavaScript and not C. When I started the course, I thought I would be able to do complete it without interference to my commitment to [Free Code Camp](http://www.freecodecamp.com/), which is to start the non-profit projects before the end of 2015! Sadly enough, in the past month, I haven't made much progress there either. CS50x was not in any way my reason for not being able to keep my commitment to freecodecamp, I just got distracted.
+
+So today, I decided to remove all other distractions from my JavaScript learning path and focus on learning JavaScript. For the rest of they year, I'm going to learn and practice JavaScript only. I won't play with any other language such as C or Python.
+
+# Aftermath
+So there's a few things I'll be doing to keep focused on JavaScript:
+
++ I'm going to read [Eloquent JavaScript](http://eloquentjavascript.net/)
+
++ I'm going to complete at least one [Free Code Camp](http://freecodecamp.com/) challenge every day
+
++ Every week, i.e every Sunday night, I'll be posting about my progress of the previous week.  
+
+This is it. By the end of this year, I'll have made good progress if everything goes as planned :)
