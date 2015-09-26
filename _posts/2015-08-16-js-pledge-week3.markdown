@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "JavaScript pledge: Week 3"
-date:   2015-08-016 11:50:00
-categories: code
+date:   2015-08-16 11:50:22
+categories:
 ---
 
 It's Sunday night again and this marks the end of my third week for learning JavaScript. [As promised](e-learning/2015/07/25/leaving-cs50x.html), here's my progress for the week:

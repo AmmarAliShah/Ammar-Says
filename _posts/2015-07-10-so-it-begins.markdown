@@ -2,7 +2,7 @@
 layout: post
 title:  "So it begins"
 date:   2015-07-10 05:38:29
-categories: updates
+categories:
 ---
 
 ![Hello World](/../assets/hello-world.png)

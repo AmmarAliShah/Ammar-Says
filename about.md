@@ -6,5 +6,12 @@ permalink: /about/
 
 ![Ammar Shah](/assets/me.jpg)
 
+I'm a ```getAge``` year old developer based in Karachi, Pakistan.
 
-Ammar Shah is a freelance developer and writer living in Karachi, Pakistan and works on web-based projects and writing assignments. What to hire him? Just [send him an email](mailto:ammar@ammaralishah.me).`Do not hesitate to ask for favors` ☺️ 
+```
+funtion getAge(){
+  var date = getCurrentDate();
+  var age = date - 1995;
+  return age;
+}
+```

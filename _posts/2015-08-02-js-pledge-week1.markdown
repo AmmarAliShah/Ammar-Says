@@ -2,7 +2,7 @@
 layout: post
 title:  "JavaScript pledge: Week 1"
 date:   2015-08-02 11:50:00
-categories: code
+categories:
 ---
 
 So I recently [quit CS50x](/e-learning/2015/07/25/leaving-cs50x.html) and in that post I stated I'd be writing about my progress every week till the end of the year. Well it's Sunday and my time is up and as stated, this is y first weekly report. This week wasn't as productive as I thought it would be due to some family events. I had to spend three complete days away from my house and computer(Wednesday, Friday and Sunday) so that put me a little behind on my progress.

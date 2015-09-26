@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I quit Harvard CS50"
 date:   2015-07-25 07:58:29
-categories: e-learning
+categories:
 ---
 
 ![CS50](/assets/CS50.jpg)
@@ -11,7 +11,7 @@ categories: e-learning
 
 A few weeks ago, as mentioned in my [previous post](/updates/2015/07/10/so-it-begins.html), I started Harvards famous Computer Science MOOC, [CS50](http://cs50.harvard.edu/), on [edx]("https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). Now by the time you'll reach Week 1, you'll know why this course is so famous - Hint: It's the teacher. [David](https://twitter.com/davidjmalan) is the reason for CS50s success. He's very energetic and easily steals the attention of his audience. He is the second *teacher* who has inspired me, the first one being, [Simon Allardice](http://simonallardice.com/). Now back to CS50.
 
-I joined CS50 
+I joined CS50
 
 > Below is the previous post if you wanna read it
 
