@@ -19,15 +19,15 @@ I'm growing tired of this! *This?* Writing this, `Hello world` post. This is the
  <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/AmmarAliShahK">@AmmarAliShahK</a> I think your CSS is broken on your website <a href="http://t.co/bXAJwIDRpm">http://t.co/bXAJwIDRpm</a></p>&mdash; Matthew Harames (@MatthewHarames) <a href="https://twitter.com/MatthewHarames/status/617758469584654336">July 5, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
- + This brings us to my third and current state, [Jekyll](http://jekyllrb.com/). Jekyll, is built by [GitHub](https://github.com/), the same company whose service I was using to host my site so I thought you can't get more compatible than that, right? So I started with Jekyll and ran into problems with the final site again. So I explored other popular static site generators from the list at [StaticGen](https://www.staticgen.com/). After trying out around a dozen other options and facing the same problem, I concluded I was doing something wrong. So I Googled around, and after a little playing around with Jekyll(actually a lot playing around), I finally nailed it!
+ + This brings us to the third and current state -  [Jekyll](http://jekyllrb.com/), is built by [GitHub](https://github.com/), the same company whose service I was using to host my site so I thought you can't get more compatible than that, right? So I started with Jekyll and ran into problems with the final site again. So I explored other popular static site generators from the list at [StaticGen](https://www.staticgen.com/). After trying out around a dozen other options and facing the same problem, I concluded I was doing something wrong. So I Googled around, and after a little playing around with Jekyll(actually a lot playing around), I finally nailed it!
 
  Now I plan on sticking with this for a while. I don't know for sure right now, but I will re-design the site in the future, but right now, I don't have the time or the energy to do so.
 
 ## Updates
-+ I'm still working through [FreeCodeCamp](http://www.freecodecamp.com/)
++ I'm still working through [FreeCodeCamp](http://www.freecodecamp.com/ammaralishah)
 + I started [Harvard CS50x](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info) on edx
 + I gave [learning Mandarin](https://www.edx.org/course/chinese-language-learn-basic-mandarin-mandarinx-mx101x) a try but I bailed out after just one day!
 + I got a haircut :-D
 
 ## And?
-And that's it. I plan on blogging regularly but I can't say for sure right now. My college starts from August and I'm gonna try to fit blogging into my routine. I'm working on a *non-profit* project atm(not from [FreeCodeCamp](http://freecodecamp.com/)) and I'll be writing about that in an upcoming post/posts.
+And that's it. I plan on blogging regularly but I can't say for sure right now. My High School starts from August 11 and I'm gonna try to fit blogging into my routine. I'm working on a project atm and maybe I'll  write about that in an upcoming post/posts.

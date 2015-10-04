@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Other Writings
-permalink: /writing/
+title: Writing
 ---
 
-Material I've written at other places besides this blog:
+My thoughts on anything and everything, all over the internet: 
 
  + [Does India hate Pakistan?](https://thewormofficial.wordpress.com/2015/07/06/does-india-hate-pakistan/) - July 6, 2015
 

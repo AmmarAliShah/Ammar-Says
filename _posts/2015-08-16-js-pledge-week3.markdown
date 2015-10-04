@@ -5,7 +5,7 @@ date:   2015-08-16 11:50:22
 categories:
 ---
 
-It's Sunday night again and this marks the end of my third week for learning JavaScript. [As promised](e-learning/2015/07/25/leaving-cs50x.html), here's my progress for the week:
+It's Sunday night again and this marks the end of my third week for learning JavaScript. [As promised](e-learning/2015/07/25/leaving-cs50x/), here's my progress for the week:
 
 + I read chapter 0 of [Dive into HTML5](http://diveintohtml5.info/)
 

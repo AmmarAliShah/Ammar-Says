@@ -10,13 +10,13 @@ categories:
 
 The time has come for me to admit my crimes:
 
-> I haven't been loyal to this blog and to the people who read it. In my [very first post](http://ammaralishah.me/2015/07/10/so-it-begins.html), I promised I would fall into some kind of regularity of blogging after I start High School. A few weeks after that, when [I quit CS50](http://ammaralishah.me/2015/07/25/leaving-cs50x.html), I made yet another promise that I would post about my code journey every week. I haven't been able to fulfill either of those promises :-(
+> I haven't been loyal to this blog and to the people who read it. In my [very first post](http://ammaralishah.me/2015/07/10/so-it-begins/), I promised I would fall into some kind of regularity of blogging after I start High School. A few weeks after that, when [I quit CS50](http://ammaralishah.me/2015/07/25/leaving-cs50x/), I made yet another promise that I would post about my code journey every week. I haven't been able to fulfill either of those promises :-(
 
 *Phew!* Good thing I got that off my chest, I can sleep peacefully now. Am I done here then? Not quite... being the nice guy I am, I'm going to tell you exactly why I haven't been able to keep my promises, or in-other-words, I'm going to play the blame game :))
 
 > TL;DR I blame my High School
 
-As [mentioned before](http://ammaralishah.me/2015/07/10/so-it-begins.html), I started High School in the second week of August and had to adjust to my new schedule. Turns out, It's practically impossible to do so. I leave for school at around 7 AM and return around 4 PM. By the time I change, shower and eat, It's already over 5 PM. By the time I'm back to functioning properly, it's over 7 PM and I have to start doing my homework which take two hours(yes they are trying to kill us). By 10 PM, I'm exhausted and just fall asleep. That's my routine Monday through Friday. Hopefully this will earn me your sympathy and you'll let me go for not keeping my promise.
+As [mentioned before](http://ammaralishah.me/2015/07/10/so-it-begins/), I started High School in the second week of August and had to adjust to my new schedule. Turns out, It's practically impossible to do so. I leave for school at around 7 AM and return around 4 PM. By the time I change, shower and eat, It's already over 5 PM. By the time I'm back to functioning properly, it's over 7 PM and I have to start doing my homework which take two hours(yes they are trying to kill us). By 10 PM, I'm exhausted and just fall asleep. That's my routine Monday through Friday. Hopefully this will earn me your sympathy and you'll let me go for not keeping my promise.
 
 > TL;DR  I found better ways to track my progress while being productive
 
