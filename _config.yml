@@ -8,9 +8,9 @@ relative_permalinks: true
 
 # Setup
 title:            Ammar Shah
-tagline:          'Freelance Developer and Writer'
-description:      'I spend my time building things for the web or writing.</br> Editor-In-Chief & Founder @<a href="https://twitter.com/TheWormOfficial" target="_blank">The Worm Offical</a>'
-url:              http://ammaralishah.me
+tagline:          'Fresh from my brain!'
+description:      'I build things for the web. I also write sometimes.</br>'
+url:              https://ammaralishah.github.io
 baseurl:          /
 
 author:
