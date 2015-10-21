@@ -5,19 +5,19 @@ title: Writing Archive
 
 My thoughts on anything and everything, all over the internet:
 
- + [Exploring New Horizons]({{ site.baseurl }}/2015/09/25/new-horizon/) - Sep 25, 2015
+ + [Exploring New Horizons](/2015/09/25/new-horizon/) - Sep 25, 2015
 
- + [JavaScript pledge: Week 3]({{ site.baseurl }}/2015/08/16/js-pledge-week3/) - Aug 16, 2015
+ + [JavaScript pledge: Week 3](/2015/08/16/js-pledge-week3/) - Aug 16, 2015
 
- + [JavaScript pledge: Week 2]({{ site.baseurl }}/2015/08/09/js-pledge-week2/) - Aug 09, 2015
+ + [JavaScript pledge: Week 2](/2015/08/09/js-pledge-week2/) - Aug 09, 2015
 
- + [Relearning RegEx]({{ site.baseurl }}/2015/08/03/relearning-regex/) - Aug 03, 2015
+ + [Relearning RegEx](/2015/08/03/relearning-regex/) - Aug 03, 2015
 
- + [JavaScript pledge: Week 1]({{ site.baseurl }}/2015/08/02/js-pledge-week1/) - Aug 02, 2015
+ + [JavaScript pledge: Week 1](/2015/08/02/js-pledge-week1/) - Aug 02, 2015
 
- + [Why I quit Harvard CS50]({{ site.baseurl }}/2015/07/25/leaving-cs50x//) - Jul 25, 2015
+ + [Why I quit Harvard CS50](/2015/07/25/leaving-cs50x//) - Jul 25, 2015
 
- + [So it begins]({{ site.baseurl }}/2015/07/10/so-it-begins/) - Jul 10, 2015
+ + [So it begins](/2015/07/10/so-it-begins/) - Jul 10, 2015
 
  + [Does India hate Pakistan?](https://thewormofficial.wordpress.com/2015/07/06/does-india-hate-pakistan/) - July 6, 2015
 

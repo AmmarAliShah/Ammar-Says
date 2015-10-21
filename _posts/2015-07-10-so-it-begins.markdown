@@ -7,9 +7,9 @@ categories:
 
 ![Hello World](/../assets/hello-world.png)
 
-I'm growing tired of this! *This?* Writing this, `Hello world` post. This is the third time I'm writing this and this time I decided to change the title - much better, don't you think?
+I'm growing tired of this! *This?* Writing this, `Hello world` post. This is the third time I'm writing this and this time I decided to change the title - much better, *don't you think?*
 
-## Why did you write it thrice?
+## Third Time?
 
  Since I discovered blogging in 2012, I've set up several blogs on various topics, and have deleted or [lost them](https://medium.com/@ammarshah/how-i-lost-my-blog-24b31e300199). I used [Google Blogger](https://www.blogger.com) for my first few blogs and then over the years, used many other solutions such as [WordPress.com](https://wordpress.com/), [WordPress.org](https://wordpress.org/), [Ghost](https://ghost.org/), [MODX](http://modx.com/), [LightCMS](https://www.lightcms.com/), and a lot more. Each blog had a life span of a few months. Here I'm only going to talk about the personal blogs I had/have setup:
 

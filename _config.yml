@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Ammar Shah
 tagline:          'Fresh from my brain!'
 description:      'I build things for the web. I also write sometimes.</br>'
-url:              https://ammaralishah.github.io
+url:              ammaralishah.github.io
 baseurl:          /
 
 author:
