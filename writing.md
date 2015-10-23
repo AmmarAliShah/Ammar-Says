@@ -3,8 +3,6 @@ layout: page
 title: Writing Archive
 ---
 
-My thoughts on anything and everything, all over the internet:
-
  + [Exploring New Horizons](/2015/09/25/new-horizon/) - Sep 25, 2015
 
  + [JavaScript pledge: Week 3](/2015/08/16/js-pledge-week3/) - Aug 16, 2015

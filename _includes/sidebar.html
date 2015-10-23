@@ -1,12 +1,42 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      {% if page.title == "Ammar Says" %}
+      <h1>
+        <a href="{{ site.baseurl }}">
+          Ammar Says
+        </a>
+      </h1>
+      <p class="lead">Freshly Published Thoughts on the world!</p>
+      {% elsif page.title == "About" %}
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">is a freelance web developer and blogger based in Karachi, Pakistan.</p>
+      {% elsif page.title == "Portfolio" %}
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">I've been programming since 2012(mostly for fun). Here's some of my work</p>
+      {% elsif page.title == "Writing Archive" %}
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">My thoughts on anything and everything, all over the internet</p>
+      {% else %}
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
+      {% endif %}
     </div>
 
     <nav class="sidebar-nav">
@@ -25,6 +55,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      <a class="sidebar-nav-item" href="https://twitter.com/AmmarAliShahK" target="_blank">Twitter</a>
 
     </nav>
 

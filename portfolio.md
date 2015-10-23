@@ -3,8 +3,6 @@ layout: page
 title: Portfolio
 ---
 
-I've been programming since 2012(mostly for fun). Here's some of my work:
-
 <hr>
 
 ####[Random Quote Machine](http://codepen.io/ammarshah/full/RWRPvj/)
