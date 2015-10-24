@@ -40,5 +40,3 @@ So basically this posts *officially* announces my previous promises are now no l
  - I'm going to try to blog more often about things that I want to write about(I said I'll try)
 
 If you want me to stay true to my word, you might wanna bug my school so much that they shorten our timings. It's almost 11 AM so I'm gonna go and eat breakfast. [Spam my school](mailto:info@commecscollege.edu.pk)!
-
-> If you're someone who's interested in writing online, please consider joining [The Worm Official](https://twitter.com/TheWormOfficial). TWO needs writers to join their team. Either [email](mailto:syedammarali24@gmail.com)/[tweet](https://twitter.com/AmmarAliShahK) me or contact [TWO on Twitter](https://twitter.com/TheWormOfficial).
