@@ -1,5 +1,5 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container">
     <div class="sidebar-about">
       {% if page.title == "Ammar Says" %}
       <h1>
@@ -22,7 +22,7 @@
         </a>
       </h1>
       <p class="lead">I've been programming since 2012(mostly for fun). Here's some of my work</p>
-      {% elsif page.title == "Writing Archive" %}
+      {% elsif page.title == "Archive" %}
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -32,15 +32,17 @@
       {% else %}
       <h1>
         <a href="{{ site.baseurl }}">
-          {{ site.title }}
+          Ammar Says
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead">Freshly Published Thoughts on the world!</p>
       {% endif %}
     </div>
 
     <nav class="sidebar-nav">
+      <!--
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+    -->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -55,7 +57,8 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item" href="https://twitter.com/AmmarAliShahK" target="_blank">Twitter</a>
+      <a class="sidebar-nav-item" href="atom.xml">RSS</a>
+
 
     </nav>
 

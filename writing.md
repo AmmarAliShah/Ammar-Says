@@ -1,7 +1,15 @@
 ---
 layout: page
-title: Writing Archive
+title: Archive
 ---
+
+<hr>
+
+##2015
+
+ + [Ammar Says - It's here](/2015/10/25/ammar-says/) - Oct 25, 2015
+
+ + [Droid Maxx Battery problems](/2015/10/24/droid-maxx-battery/) - Oct 24, 2015
 
  + [Exploring New Horizons](/2015/09/25/new-horizon/) - Sep 25, 2015
 
@@ -20,6 +28,10 @@ title: Writing Archive
  + [Does India hate Pakistan?](https://thewormofficial.wordpress.com/2015/07/06/does-india-hate-pakistan/) - July 6, 2015
 
  + [How I lost my blog](https://medium.com/@ammarshah/how-i-lost-my-blog-24b31e300199) - March 22, 2015
+
+<hr>
+
+## 2014
 
  + [HashKey: The one-key Keyboard](https://thewormofficial.wordpress.com/2014/12/11/hashkey-keyboard/) - December 11, 2014
 

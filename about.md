@@ -28,10 +28,9 @@ When he’s not at school, you can find him on his laptop either working, or jus
 
 ###Social Stuff
 
- - [Twitter](https://twitter.com/AmmarAliShahK)
- - [Facebook](https://www.facebook.com/technofreak24)
- - [Instagram](https://instagram.com/ammaralishahk)
- - [Ask.fm](http://ask.fm/SyedAmmarAli)
- - [Quora](https://www.quora.com/Ammar-Ali-Shah-2)
- - [LinkedIn](https://pk.linkedin.com/in/ammaralishah)
- - [Email](mailto:syedammarali24@gmail.com)
+ - [<i class="fa fa-twitter"></i> Twitter](https://twitter.com/AmmarAliShahK)
+ - [<i class="fa fa-facebook-official"></i> Facebook](https://www.facebook.com/technofreak24)
+ - [<i class="fa fa-instagram"></i> Instagram](https://instagram.com/ammaralishahk)
+ - [<i class="fa fa-linkedin-square"></i> LinkedIn](https://pk.linkedin.com/in/ammaralishah)
+ - [<i class="fa fa-tumblr"></i> Tumblr](http://ammaralishahk.tumblr.com/)
+ - [<i class="fa fa-envelope"></i> Email](mailto:syedammarali24@gmail.com)

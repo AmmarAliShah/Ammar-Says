@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Ammar Shah
-tagline:          'Fresh from my brain!'
-description:      'I build things for the web. I also write sometimes.</br>'
+tagline:          'Freshly published thoughts on the world!'
+description:      'I build things for the web. I also write sometimes'
 url:              ammaralishah.github.io
 baseurl:          /
 
