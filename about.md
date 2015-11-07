@@ -5,8 +5,9 @@ title: About
 
 ![Ammar Shah](/assets/me.jpg)
 
+Ammar Shah is currently a volunteer Intern at [Zidisha](https://www.zidisha.org/).
 
-Ammar Shah is currently a Pre-Engineering student at [Commecs College, PECHS](http://commecscollege.edu.pk/contact/pechs-campus/). He's an active member at [FreeCodeCamp](http://freecodecamp.com/ammaralishah) since November 2014 and was on the volunteer team as a "Community Builder" from January 2015 till it ended, in the Summer of 2015.
+He is a Pre-Engineering student at [Commecs College, PECHS](http://commecscollege.edu.pk/contact/pechs-campus/). He's an active member at [FreeCodeCamp](http://freecodecamp.com/ammaralishah) since November 2014 and was on the volunteer team as a "Community Builder" from January 2015 till it ended, in the Summer of 2015.
 
 Ammar is a freelance **web developer** and **writer** on the lookout for web based projects and writing assignments. He writes at, [Ammar Says]({{ site.baseurl }}) and at [other places](/writing) when given the opportunity.
 

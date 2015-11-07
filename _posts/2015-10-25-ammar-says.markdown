@@ -4,7 +4,7 @@ title:  "Ammar Says - It's here"
 date:   2015-10-25 1:50
 ---
 
-![Ammar Says Homepage](/.../assets/ammar-says.JPG)
+![Ammar Says Homepage](/../assets/ammar-says.JPG)
 
 I write this listening to [Hero by Family of the Year](http://www.deezer.com/track/76983689?utm_source=deezer&utm_content=track-76983689&utm_term=793525815_1445720257&utm_medium=web). It's an amazing song and you should listen to it. I first heard it while watching, [Boyhood](http://www.imdb.com/title/tt1065073/), a few days ago. I don't always listen to music when I'm writing but I'm addicted to Hero right now.  This post isn't about the song, nor is it about Boyhood - it could be, but it isn't.  This post is actually about my blog, *this blog* which I've made some changes to.
 
@@ -19,19 +19,19 @@ As hard as it was for me, I've closed  "The Worm Official chapter" in my life an
 
 ###Blog Name
 
-![Ammar Says Homepage](/.../assets/blog-name.JPG)
+![Ammar Says Homepage](/../assets/blog-name.JPG)
 
 I've decided to name this blog, "**Ammar Says**". The tagline accompanying this name is "**Freshly Published Thoughts on the world!**". [Let me know](https://twitter.com/AmmarAliShahK) your thoughts on the name and tagline - I promise I don't bite!
 
 ###Sidebar
 
-![Ammar Says Homepage](/.../assets/sidebar.JPG)
+![Ammar Says Homepage](/../assets/sidebar.JPG)
 
 I've also made some changes to the side/top nav of the site. On every page, you'll see the description changes. I just thought it looked good. [What do you think?](https://twitter.com/AmmarAliShahK)
 
 ###Writing Archive
 
-![Ammar Says Homepage](/.../assets/archive.JPG)
+![Ammar Says Homepage](/../assets/archive.JPG)
 
 I also added in a [writing archive](/writing/). It lists all my posts that are available online.
 
