@@ -1,7 +1,13 @@
 <head>
 
   <title>
-    {% if page.title == "Ammar Says" %}Ammar Says | Freshly Published Thoughts on the world!{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}
+    {% if page.title == "Ammar Says" %}
+      Ammar Says | Freshly Published Thoughts on the world!
+    {% elsif page.layout == "post" %}
+        {{ page.title }} &middot; Ammar Says
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
   </title>
 
   <link href="http://gmpg.org/xfn/11" rel="profile">
