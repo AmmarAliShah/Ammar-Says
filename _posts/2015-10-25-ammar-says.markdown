@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ammar Says - It's here"
+title:  "Ammar Says: It's here"
 date:   2015-10-25 1:50
 ---
 

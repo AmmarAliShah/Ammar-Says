@@ -7,7 +7,13 @@ title: Archive
 
 ##2015
 
- + [Ammar Says - It's here](/2015/10/25/ammar-says/) - Oct 25, 2015
+ + [A Year at Free Code Camp](/2015/12/01/year-at-fcc/) - Dec 01, 2015
+
+ + [The Amazing Ellie](/2015/11/22/amazing-ellie/) - Nov 22, 2015
+
+ + [Phone Manufacturers: Focus on the battery](/2015/10/25/ammar-says/) - Nov 07, 2015
+
+ + [Ammar Says: It's here](/2015/10/25/ammar-says/) - Oct 25, 2015
 
  + [Droid Maxx Battery problems](/2015/10/24/droid-maxx-battery/) - Oct 24, 2015
 
