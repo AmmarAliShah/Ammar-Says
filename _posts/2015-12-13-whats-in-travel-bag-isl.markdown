@@ -1,4 +1,12 @@
+---
+layout: post
+title:  "What's in my Travel Bag Pack || Winter Trip 2015"
+date:   2015-12-13 17:12
+---
+
 > Due to lack of time and Internet(and partly due to the cold weather), this post went up a day late.
+
+![]()
 
 I've sent out tweets and wrote a blog post about it.
 
@@ -15,6 +23,8 @@ This is my bag pack.
 Let's get started now, shall we.
 
 ## The Bag
+
+![]()
 
 So first of all the bag itself:
 
