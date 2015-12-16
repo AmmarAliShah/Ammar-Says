@@ -6,7 +6,7 @@ date:   2015-12-13 17:12
 
 > Due to lack of time and Internet(and partly due to the cold weather), this post went up a day late.
 
-![]()
+![Bag Pack](/assets/tbgpk15/01.jpg)
 
 I've sent out tweets and wrote a blog post about it.
 
