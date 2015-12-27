@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 09-10: Sheikhabad Again || Winter Trip 2015"
+title:  "Day 09-10: Sheikh Abad Again || Winter Trip 2015"
 date:   2015-12-23 23:39
 ---
 
