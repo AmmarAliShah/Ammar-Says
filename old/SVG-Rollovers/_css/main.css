@@ -1,0 +1,15 @@
+body {
+    background-image: url(../_img/bkgd.jpg)
+}
+
+.content {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
