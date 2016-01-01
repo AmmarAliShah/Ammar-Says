@@ -5,6 +5,10 @@ title: Archive
 
 <hr>
 
+<a class="sidebar-nav-item" href="atom.xml">Subscribe via RSS</a>
+
+<hr>
+
 ##2015
 
  + [Day 11-13: Abbottabad and Daewoo || Winter Trip 2015](/2015/12/26/d11-13-abbott-daewoo-isl/) - Dec 26, 2015
@@ -40,8 +44,6 @@ title: Archive
  + [JavaScript pledge: Week 3](/2015/08/16/js-pledge-week3/) - Aug 16, 2015
 
  + [JavaScript pledge: Week 2](/2015/08/09/js-pledge-week2/) - Aug 09, 2015
-
- + [Relearning RegEx](/2015/08/03/relearning-regex/) - Aug 03, 2015
 
  + [JavaScript pledge: Week 1](/2015/08/02/js-pledge-week1/) - Aug 02, 2015
 
