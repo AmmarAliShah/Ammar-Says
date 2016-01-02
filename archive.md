@@ -5,7 +5,13 @@ title: Archive
 
 <hr>
 
-<a class="sidebar-nav-item" href="atom.xml">Subscribe via RSS</a>
+<a class="sidebar-nav-item" href="{{ site.baseurl }}atom.xml">Subscribe via RSS</a>
+
+<hr>
+
+##2016
+
+ + [It's 2016](/2016/01/01/new-year/) - Jan 01, 2016
 
 <hr>
 

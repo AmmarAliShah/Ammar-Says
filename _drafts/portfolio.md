@@ -3,6 +3,16 @@ layout: page
 title: Portfolio
 ---
 
+<!--
+{% elsif page.title == "Portfolio" %}
+<h1>
+  <a href="{{ site.baseurl }}">
+    {{ site.title }}
+  </a>
+</h1>
+<p class="lead">I've been programming since 2012(mostly for fun). Here's some of my work</p>
+-->
+
 <hr>
 
 ####[Random Quote Machine](http://codepen.io/ammarshah/full/RWRPvj/)

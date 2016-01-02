@@ -7,9 +7,11 @@ title: About
 
 Ammar Shah is currently a Country Liaison at [Zidisha](https://www.zidisha.org/).
 
-He is a Pre-Engineering student at [Commecs College, PECHS](http://commecscollege.edu.pk/contact/pechs-campus/). He's an active member at [Free Code Camp](http://freecodecamp.com/ammaralishah) since November 2014 and was on the volunteer team as a "Community Builder" from January 2015 till it ended, in the Summer of 2015.
+He's an active member at [Free Code Camp](http://freecodecamp.com/ammaralishah) since November 2014 and was on the volunteer team as a "Community Builder" from January 2015 till it ended, in the Summer of 2015.
 
-Ammar is a freelance **web developer** and **writer** on the lookout for web based projects and writing assignments. He writes at, [Ammar Says]({{ site.baseurl }}) and at [other places](/writing) when given the opportunity.
+He is a Pre-Engineering student at [Commecs College, PECHS](http://commecscollege.edu.pk/contact/pechs-campus/).
+
+Ammar is a freelance **web developer** and **writer** on the lookout for web based projects and writing assignments. He writes at, [Ammar Says]({{ site.baseurl }}) and at [other places](/archive) when given the opportunity.
 
 - [Development Portfolio](/portfolio)
 - [Writing Portfolio](/writing)
