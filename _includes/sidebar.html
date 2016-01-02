@@ -8,7 +8,7 @@
         </a>
       </h1>
       <p class="lead">Freshly Published Thoughts on the world!</p>
-      {% elsif page.title == "About" %}
+      {% elsif page.title == "About Me" %}
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -33,7 +33,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      
+
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
       {% comment %}
