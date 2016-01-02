@@ -39,7 +39,7 @@ title: Archive
 
  + [The Amazing Ellie](/2015/11/22/amazing-ellie/) - Nov 22, 2015
 
- + [Phone Manufacturers: Focus on the battery](/2015/10/25/ammar-says/) - Nov 07, 2015
+ + [Phone Manufacturers: Focus on the battery](/2015/11/07/phone-man-battery/) - Nov 07, 2015
 
  + [Ammar Says: It's here](/2015/10/25/ammar-says/) - Oct 25, 2015
 
