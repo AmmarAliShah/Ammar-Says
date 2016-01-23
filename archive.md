@@ -11,6 +11,8 @@ title: Archive
 
 ##2016
 
+ + [The android app by Microsoft to help you wake up on time](/2016/01/10/alarm-microsoft-youll-hate/) - Jan 23, 2016
+
  + [CS50x 2016](/2016/01/09/cs50x-2016/) - Jan 10, 2016
 
  + [It's 2016](/2016/01/01/new-year/) - Jan 01, 2016
