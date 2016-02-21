@@ -18,9 +18,9 @@ Ammar is a freelance **web developer** and **writer** on the lookout for web bas
 
 > [Hire Ammar Shah](mailto:syedammarali24@gmail.com) for a development or writing project.
 
-When he’s not at school, you can find him on his laptop either working, or just catching up with his current favorite show. If he's doing none of that, he's probably just trying to be cool on Twitter [@AmmarAliShahK](https://twitter.com/AmmarAliShahK)
+When he’s not at school, you can find him on his laptop either working, or just catching up with his current favorite show. If he's doing none of that, he's probably just trying to be cool on <i class="fa fa-twitter"></i> [@AmmarAliShahK](https://twitter.com/AmmarAliShahK)
 
-###Technical Skills
+### Technical Skills
 
 - HTML
 - CSS
@@ -29,7 +29,7 @@ When he’s not at school, you can find him on his laptop either working, or jus
 - JavaScript
 - [Git](http://git-scm.com/)/[GitHub](http://github.com/)
 
-###Social Stuff
+### Social Stuff
 
  - [<i class="fa fa-twitter"></i> Twitter](https://twitter.com/AmmarAliShahK)
  - [<i class="fa fa-facebook-official"></i> Facebook](https://www.facebook.com/technofreak24)
