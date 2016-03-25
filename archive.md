@@ -7,8 +7,9 @@ title: Archive
 
 ## 2016
 
-
  - [FAREWELL PSET1 // CS50X 2016](http://ammarcodes.blogspot.com/2016/03/farewell-pset1-cs50x-2016.html) - March 20, 2016
+
+ - [Too many blogs?](http://ammarshah.kinja.com/too-many-blogs-1764694299) - March 14, 2016
 
  - [Blogging Depression](/2016/03/05/blogging-depression/) - March 05, 2016
 
