@@ -5,16 +5,20 @@ title: Archive
 
 <hr>
 
-<a class="sidebar-nav-item" href="{{ site.baseurl }}atom.xml">Subscribe via RSS</a>
-
-<hr>
-
 ## 2016
 
 
- - [Blogging Depression]() - Jan 21, 2016
+ - [FAREWELL PSET1 // CS50X 2016](http://ammarcodes.blogspot.com/2016/03/farewell-pset1-cs50x-2016.html) - March 20, 2016
 
- - [Why is my blog inactive — Jekyll Problems](https://medium.com/@ammarshah/why-is-my-blog-inactive-jekyll-problems-24b325e1bd26#.4v5am44ro) - Jan 21, 2016
+ - [Blogging Depression](/2016/03/05/blogging-depression/) - March 05, 2016
+
+ - [Why is my blog inactive — Jekyll Problems](https://medium.com/@ammarshah/why-is-my-blog-inactive-jekyll-problems-24b325e1bd26#.4v5am44ro) - Feb 20, 2016
+
+ - [FOUR CHROME EXTENSIONS FOR PEOPLE LEARNING CSS](http://ammarcodes.blogspot.com/2016/02/four-chrome-extensions-for-people.html) - Feb 13, 2016
+
+ - [I FINALLY CRACKED MARIO.C // CS50X 2016](http://ammarcodes.blogspot.com/2016/02/i-finally-cracked-marioc-cs50x-2016.html) - Feb 09, 2016
+
+ - [WTB - WHAT THE BLOG](http://ammarcodes.blogspot.com/2016/02/wtb.html) - Feb 06, 2016
 
  - [The android app by Microsoft to help you wake up on time](/2016/01/23/alarm-microsoft-youll-hate/) - Jan 23, 2016
 
