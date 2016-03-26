@@ -18,8 +18,6 @@ It's 2:31AM as I write this. I woke up at 6AM the previous day, like I do everyd
 
 I have two ways to go to sleep right now, have another cup of coffee so that I fall asleep instantly and wake up at 6 ( in about 4 hours), or I just wait for sweet sweet sleep to come while I read article after article online. I could also execute both of them but I don't want to end up sleeping with my head on my keyboard ( it isn't very comfortable )
 
-Either way, I'm going to end up sleeping *somewhere* and *somehow* but I'll still be up at 6AM. I don't really know why, but my body refuses to sleep after that time. It's still a mystery to me why this happens and if any one of you is a professional in this field ( or just knowledgeable ), feel free to discuss this with me in the comments below or on Twitter*.
+Either way, I'm going to end up sleeping *somewhere* and *somehow* but I'll still be up at 6AM. I don't really know why, but my body refuses to sleep after that time. It's still a mystery to me why this happens and if any one of you is a professional in this field ( or just knowledgeable ), feel free to discuss this with me in the comments below or on [Twitter](https://twitter.com/AmmarAliShahK).
 
 ---
-
-*We can talk using other means if you prefer to stay from either of these.
