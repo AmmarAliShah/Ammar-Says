@@ -12,7 +12,7 @@ As soon as I finish a cup, I'm going to get sleepy - *really* sleepy! I won't be
 
 I had Coffee around 9PM. As soon as I gulped it down, like some kind of immediate effecting drug you see in the movies, I started getting sleepy. So much sleepy that I dropped my phone from my hand. At 10PM, again like the previous pill but with the exact opposite effect, I'm wide awake. No more yawning, no more of my eyes closing, no more of dropping my phone because I dozed off for a second.
 
-Now I'm awake - *wide wake*.
+Now I'm awake - *wide awake*.
 
 It's 2:31AM as I write this. I woke up at 6AM the previous day, like I do everyday ( I don't know why, I just do! ). I've had only about 6 hours of sleep in the last 25 hours ( approximately ).
 
