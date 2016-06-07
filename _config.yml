@@ -6,9 +6,9 @@ highlighter:      Rouge
 permalink:        pretty
 
 # Setup
-title:            Ammar Says
+title:            Ammar Shah
 tagline:          'Freshly published thoughts on the world!'
-description:      'Ammar Says is the blog of Ammar Shah, a blogger and developer based in Karachi, Pakistan'
+description:      'Ammar Shah is a blogger and developer based in Karachi, Pakistan'
 url:              ammaralishah.github.io
 baseurl:          /
 
