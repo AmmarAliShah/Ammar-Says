@@ -1,20 +1,17 @@
 ---
 layout: page
-title: About Me
+title: About
 ---
 
 ![Ammar Shah](/assets/me.jpg)
 
-Ammar Shah is currently a Country Liaison at [Zidisha](https://www.zidisha.org/).
+Ammar Shah is currently a Anglophone Liaison at [Zidisha Inc.](https://www.zidisha.org/).
 
 He's an active member at [Free Code Camp](http://freecodecamp.com/ammaralishah) since November 2014 and was on the volunteer team as a "Community Builder" from January 2015 till it ended, in the Summer of 2015.
 
 He is a Pre-Engineering student at [Commecs College, PECHS](http://commecscollege.edu.pk/contact/pechs-campus/).
 
-Ammar is a freelance **web developer** and **writer** on the lookout for web based projects and writing assignments. He writes at, [Ammar Says]({{ site.baseurl }}) and at [other places](/archive) when given the opportunity.
-
-- [Development Portfolio](/portfolio)
-- [Writing Portfolio](/writing)
+Ammar is a freelance **Front-End-Dev** and **writer** on the lookout for work. He writes [here]({{ site.baseurl }}) and at [other places](/archive).
 
 > [Hire Ammar Shah](mailto:syedammarali24@gmail.com) for a development or writing project.
 

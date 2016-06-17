@@ -7,6 +7,12 @@ title: Archive
 
 ## 2016
 
+ - [Psychobabble: The pop culture and Hollywood gossip podcast you'll love]() - June 11, 2016
+
+ - [How to survive your first week at the gym](thewormofficial.wordpress.com/2016/06/11/how-to-survive-your-first-week-at-the-gym/) - June 11, 2016
+
+ - [Extremely Unproductive](/2016/06/08/extremely-unproductive/) - June 08, 2016
+
  - [Finally 18 and legal](/2016/03/31/finally-18/) - March 31, 2016
 
  - [Coffee and Me](/2016/03/27/coffee-and-me/) - March 27, 2016
