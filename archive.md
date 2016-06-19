@@ -7,9 +7,13 @@ title: Archive
 
 ## 2016
 
- - [Psychobabble: The pop culture and Hollywood gossip podcast you'll love]() - June 11, 2016
+ - [Psychobabble: The pop culture and Hollywood gossip podcast you'll love](/2016/06/16/psychobabble-review/) - June 19, 2016
+
+  - [STARTING #100DAYSOFCODE](https://ammarcodes.blogspot.com/2016/06/starting-100daysofcode.html) - June 17, 2016
 
  - [How to survive your first week at the gym](thewormofficial.wordpress.com/2016/06/11/how-to-survive-your-first-week-at-the-gym/) - June 11, 2016
+
+ - [CS50X ABANDONED[AGAIN??]](https://ammarcodes.blogspot.com/2016/06/cs50x-abandonedagain.html) - June 11, 2016
 
  - [Extremely Unproductive](/2016/06/08/extremely-unproductive/) - June 08, 2016
 
