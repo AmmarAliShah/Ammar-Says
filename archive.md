@@ -7,6 +7,10 @@ title: Archive
 
 ## 2016
 
+ - [Mission 'More Social'](/2016/08/14/more-social/) - August 15, 2016
+
+ - [FORCED BREAK - #100DAYSOFCODE](https://ammarcodes.blogspot.com/2016/07/forced-break-100daysofcode.html) - July 25, 2016
+
  - [Psychobabble: The pop culture and Hollywood gossip podcast you'll love](/2016/06/16/psychobabble-review/) - June 19, 2016
 
   - [STARTING #100DAYSOFCODE](https://ammarcodes.blogspot.com/2016/06/starting-100daysofcode.html) - June 17, 2016
