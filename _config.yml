@@ -16,7 +16,7 @@ author:
   name:           'Ammar Shah'
   url:            https://twitter.com/AmmarAliShahK
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate:         5
 paginate_path: "page:num"
 
