@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Archive
+title: Writing
 ---
 
-<hr>
+> **Note:** Haven't updated this since 2016
+
 
 ## 2016
 

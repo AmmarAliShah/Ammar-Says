@@ -3,7 +3,11 @@ layout: page
 title: About
 ---
 
-![Ammar Shah](/assets/me.jpg)
+
+> **Note:** Haven't updated this since 2016
+
+
+![Ammar Shah at CBMUN 2014](/assets/me.jpg)
 
 Ammar Shah is currently an Anglophone Liaison at [Zidisha Inc.](https://www.zidisha.org/).
 

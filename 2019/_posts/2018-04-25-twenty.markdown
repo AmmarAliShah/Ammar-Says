@@ -3,7 +3,7 @@ layout: post
 title:  "Twenty"
 date:   2018-04-25 20:37
 author: ammar
-categories: [ Self-reflection ]
+categories: [ Life ]
 image: assets/twenty.png
 featured: true
 permalink: /twenty

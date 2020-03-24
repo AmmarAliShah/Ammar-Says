@@ -3,9 +3,9 @@ layout: post
 title:  "I talk"
 date:   2016-10-03 23:21
 author: ammar
-categories: [ Self-reflection ]
+categories: [ Rants ]
 image: assets/i-talk.jpg
-featured: true
+featured: false
 permalink: /i-talk
 ---
 
